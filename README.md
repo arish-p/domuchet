@@ -7,13 +7,13 @@
 
 #### Стек технологий
     1 Dart + Flutter + Provider
-    3 REST API
+    2 REST API
 
 
 #### 1. Страница авторизации.
 
 
-![auth]((https://user-images.githubusercontent.com/113469837/219964373-6a3adbd5-f3f1-4841-b02c-e73a65922bc1.jpg)
+![auth](https://user-images.githubusercontent.com/113469837/219964373-6a3adbd5-f3f1-4841-b02c-e73a65922bc1.jpg)
 
 
 #### 2. Список заявок.
